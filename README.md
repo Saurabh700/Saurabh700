@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 <em>Let's Connect</em>
 ---------------------------------------------------------------------------------------------------------------------------------
-<a href="https://www.linkedin.com/in/saurabh-patel-5586141a3/"><img height="25px" width="80px" src="https://www.goshen.edu/wp-content/uploads/sites/60/2012/05/LinkedIn-Logo.png"></a>
+<a href="https://www.linkedin.com/in/saurabh-patel-5586141a3/"><img height="25px" width="80px" src="https://www.goshen.edu/wp-content/uploads/sites/60/2012/05/LinkedIn-Logo.png"></a> <a href="mailto:psaurabh700.sp@gmail.com"><img height="25px" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCPmE86LJPlnh2QderT1spyE4t0xcwEemQHQ&usqp=CAU"></a>
