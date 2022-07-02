@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 I'm Saurabh Patel
+###                                           Hi there 👋 I'm Saurabh Patel
 ---------------------------------------------------------------------------------------------------------------------------------
 
 - I'm an Aspiring Full Stack Web Developer at Masai School
