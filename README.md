@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###                                           Hi there 👋 I'm Saurabh Patel
+###  <h2>Hi there 👋 I'm Saurabh Patel</h2>
 ---------------------------------------------------------------------------------------------------------------------------------
 
 - <h1>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h1>
