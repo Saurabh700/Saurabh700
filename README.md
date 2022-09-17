@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###  <h2>Hi there 👋 I'm Saurabh Patel</h2>
+###  <h1 style="margin-left:5rem">Hi there 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /> I'm Saurabh Patel</h1>
 ---------------------------------------------------------------------------------------------------------------------------------
 
 - <h1>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h1>
