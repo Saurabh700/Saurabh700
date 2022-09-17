@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 - <em>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</em>
 <br/>
-<br/>
 
 <em>Tech Stack</em>
 ---------------------------------------------------------------------------------------------------------------------------------
