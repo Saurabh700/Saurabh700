@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <em>My Top Projects</em> 
 ---------------------------------------------------------------------------------------------------------------------------------
-<a target="_blank" href="https://euphonious-frangipane-5a3d47.netlify.app/"><img height="25px" width="80px" src="[https://static.wikia.nocookie.net/logopedia/images/8/8a/Koovs_2.jpeg/revision/latest?cb=20200417140438](http://cdn.shopify.com/s/files/1/0627/7388/7215/files/04122019_logo2.png?v=1645644264)"></a><a target="_blank" href="https://thunderous-lollipop-31c370.netlify.app/"><img height="25px" width="80px" src="https://static.wikia.nocookie.net/logopedia/images/8/8a/Koovs_2.jpeg/revision/latest?cb=20200417140438"></a> <img height="25px" width="80px" src="https://www.kindpng.com/picc/m/378-3787588_yoox-logo-png-transparent-png.png" >
+<a target="_blank" href="https://euphonious-frangipane-5a3d47.netlify.app/"><img height="25px" width="80px" src="https://cdn.shopify.com/s/files/1/0627/7388/7215/files/04122019_logo2.png?v=1645644264"></a><a target="_blank" href="https://thunderous-lollipop-31c370.netlify.app/"><img height="25px" width="80px" src="https://static.wikia.nocookie.net/logopedia/images/8/8a/Koovs_2.jpeg/revision/latest?cb=20200417140438"></a> <img height="25px" width="80px" src="https://www.kindpng.com/picc/m/378-3787588_yoox-logo-png-transparent-png.png" >
 
 <br/>
 
