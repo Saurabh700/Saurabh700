@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ###                                           Hi there 👋 I'm Saurabh Patel
 ---------------------------------------------------------------------------------------------------------------------------------
 
-- I'm an Aspiring Full Stack Web Developer at Masai School
+- <h1>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h1>
 
 <em>Tech Stack</em>
 ---------------------------------------------------------------------------------------------------------------------------------
