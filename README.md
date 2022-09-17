@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ###  <h1 style="margin-left:250px">Hi there <img style="height:40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /> I'm Saurabh Patel</h1>
 
-- <em>An aspiring Full Stack Web Developer currently skilling in MERN stack at Masai School</em>
-- <em>Observant and intuitive problem-solver, focussed on writing clean, elegant and efficient code</em>
-- <em>Passionate about building user-centric products</em>
+- <em>🔭 An aspiring Full Stack Web Developer currently skilling in MERN stack at Masai School</em>
+- <em>🧐 Observant and intuitive problem-solver, focussed on writing clean, elegant and efficient code</em>
+- <em>✨ Passionate about building user-centric products</em>
 <br/>
 
 <em>Tech Stack</em>
