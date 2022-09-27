@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://lovoda-clone.netlify.app/" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lovoda.com Clone&color=3626ce&label=" alt="Lovoda.com" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lovoda.com Clone&color=4cb2ad&label=" alt="Lovoda.com" />
     </a>
     <a href="https://thunderous-lollipop-31c370.netlify.app/" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Koovs.com Clone&color=c43369&label=" alt="Koovs.com" />
@@ -57,11 +57,14 @@ Here are some ideas to get you started:
 
 ## <em>My GitHub Stats</em>
 
+        
+<div align="center">   
+        <a align="center" href="https://github.com/Saurabh700"><img alt="Saurabh Patel's Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh700&layout=compact&theme=dark" /></a>
+        <br/>
+        <br/>
+<a align="center" href="https://github.com/Saurabh700"><img alt="Saurabh Patel's Activity Graph" src="https://github-readme-stats.vercel.app/api?username=Saurabh700&theme=dark" /></a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurabh700&theme=dark)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh700&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 <a href="https://github.com/Saurabh700"><img alt="Saurabh Patel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saurabh700&bg_color=0D1117&color=ffffff&line=5BCDEC&point=dc777a&hide_border=true" /></a>
 
 
