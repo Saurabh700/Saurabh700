@@ -57,9 +57,7 @@ Here are some ideas to get you started:
 
 ## <em>My GitHub Stats</em>
 
-<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurabh700&theme=dark)
-</div>
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh700&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
