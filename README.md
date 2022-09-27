@@ -17,9 +17,17 @@ Here are some ideas to get you started:
 
 ###  <h1 style="margin-left:250px">Hi there <img style="height:40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /> I'm Saurabh Patel</h1>
 
+<div display="flex">
+
+<div>
 - <em>🔭 An aspiring Full Stack Web Developer currently skilling in MERN stack at Masai School</em>
 - <em>🧐 Observant and intuitive problem-solver, focussed on writing clean, elegant and efficient code</em>
 - <em>✨ Passionate about building user-centric products</em>
+</div>
+<div>
+<img height="300px" width="420px" src="https://camo.githubusercontent.com/603534b63d27196392539672b375eabd56f9c8d1671118b92a996d72f0ad3851/68747470733a2f2f63646e2e73616e6974792e696f2f696d616765732f6f726467696b77652f70726f64756374696f6e2f613833306335313832383532653335626364306463303762393031323266303765636431356634382d373030783532352e6769663f773d37303026683d353235266175746f3d666f726d6174" />
+</div>
+</div>
 <br/>
 
 <em>Tech Stack</em>
@@ -45,3 +53,5 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurabh700&theme=dark)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh700&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/Saurabh700"><img alt="Saurabh Patel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saurabh700&bg_color=0D1117&color=ffffff&line=5BCDEC&point=dc777a&hide_border=true" /></a>
